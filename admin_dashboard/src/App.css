@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* .cont{
+  max-width: 80%;
+  overflow-y: hidden;
+} */
